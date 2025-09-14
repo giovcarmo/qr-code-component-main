@@ -1,4 +1,4 @@
-# Exercício Formulário de Contato
+# QR Code Component Main (Frontend Mentor)
 Neste exercício do curso, foi pedido para criar um formulário Cartão de QR Code, muito simples.
 
 ## Sobre
